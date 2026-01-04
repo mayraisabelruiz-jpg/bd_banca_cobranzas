@@ -1,7 +1,7 @@
 # bd_banca_cobranzas
 CASO PROPUESTO: Gestión de Cobranzas en un Banco de Consumo
 1. Narrativa del Caso
-El Banco Finanzas Seguras S.A. otorga créditos de consumo a clientes individuales. Cada crédito genera un cronograma de cuotas mensuales. El área de Cobranzas debe gestionar:
+El Banco otorga créditos de consumo a clientes individuales. Cada crédito genera un cronograma de cuotas mensuales. El área de Cobranzas debe gestionar:
 • 	Pagos puntuales y pagos atrasados.
 • 	Mora y recálculo de intereses moratorios.
 • 	Promesas de pago.
